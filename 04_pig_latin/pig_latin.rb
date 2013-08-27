@@ -15,6 +15,12 @@ def piggy(input)
 		return input + "quay"
 	end	
 
+	if input[0,3].downcase == "squ" 
+		input.slice!(0,3)
+		return input + "squay"
+	end
+
+
 	first_letter = input.slice!(0)
 
 	if !vowels.include? input[0]
