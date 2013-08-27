@@ -55,9 +55,12 @@ end
 describe "#multiply" do
 
   it "multiplies two numbers" do 
+    multiply(4,12).should == 48
   end
 
+  
   it "multiplies several numbers" do
+    multiply(2,3,4).should eq(24)
   end
 
 end
@@ -65,18 +68,28 @@ end
 # http://en.wikipedia.org/wiki/Factorial
 describe "#factorial" do
 
+
   it "computes the factorial of 0" do
+    factorial(0).should eq(0)
   end
+
 
   it "computes the factorial of 1" do
+factorial(1).should eq(1)
   end
+
 
   it "computes the factorial of 2" do
+    factorial(2).should eq(2)
   end
+
 
   it "computes the factorial of 5" do 
+    factorial(5).should eq(120)
   end
 
+
   it "computes the factorial of 10" do 
+    factorial(10).should eq(3628800)
   end
 end

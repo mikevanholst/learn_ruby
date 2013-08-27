@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Shopping",
+				"ShoppingCart"
+			],
+			[
+				"in",
+				"incoming_message"
+			],
+			[
+				"ne",
+				"new_id"
+			],
+			[
+				"fiel",
+				"field_choice"
+			],
+			[
+				"fie",
+				"field_choice"
+			],
+			[
+				"fi",
+				"field_choice"
+			],
+			[
+				"contact_",
+				"contact_to_pass"
+			],
+			[
+				"get",
+				"get_contact_by_id"
+			],
+			[
+				"selec",
+				"select_action"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"found",
+				"found_contact"
+			],
+			[
+				"display",
+				"display_single_contact"
+			],
+			[
+				"contact",
+				"contact_id"
+			],
+			[
+				"greeting",
+				"greeting_prefix"
+			],
+			[
+				"irc",
+				"irc_server"
+			],
+			[
+				"conta",
+				"contact_id"
+			],
+			[
+				"con",
+				"contacts_list"
+			],
+			[
+				"us",
+				"user_selected"
+			],
+			[
+				"sorted",
+				"sorted_file"
+			],
+			[
+				"file",
+				"file_hash"
+			],
+			[
+				"foo",
+				"foo_less"
+			],
+			[
+				"integer",
+				"integer_array"
+			],
+			[
+				"num",
+				"num_array"
+			],
+			[
+				"di",
+				"digits_array"
+			],
+			[
+				"str",
+				"string_length"
+			],
+			[
+				"st",
+				"string_num"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mikevanholst/Documents/projects/learn_ruby/00_hello/hello.rb",
+		"/Users/mikevanholst/Documents/projects/learn_ruby/00_hello/hello_spec.rb",
+		"/Users/mikevanholst/Documents/projects/irc-bot/test_rspec.rb",
+		"/Users/mikevanholst/Documents/projects/irc-bot/archie_bot.rb",
+		"/Users/mikevanholst/Documents/irc_bot.rb",
+		"/Users/mikevanholst/Documents/Irc_chat.rb",
+		"/Users/mikevanholst/Documents/def adder(n).rb",
+		"/Users/mikevanholst/Documents/class_point.rb",
+		"/Users/mikevanholst/Documents/hangman_3.rb",
+		"/Users/mikevanholst/Documents/ruby_fundamentals/Bigger_element.rb",
+		"/Users/mikevanholst/Desktop/Jokes for Programming",
+		"/Users/mikevanholst/Documents/collaborative_writing/novel.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response",
+			"msg",
+			"puts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bark",
+			"command"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.865035941067,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"01_temperature/temperature_spec.rb"
+			],
+			[
+				"te",
+				"01_temperature/temperature_spec.rb"
+			],
+			[
+				"l",
+				"spec/library_spec.rb"
+			],
+			[
+				"boo",
+				"spec/book_spec.rb"
+			],
+			[
+				"li",
+				"spec/library_spec.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"bo",
+				"book.rb"
+			],
+			[
+				"ar",
+				"archie_bot.rb"
+			],
+			[
+				"cr",
+				"crm.rb"
+			],
+			[
+				"dat",
+				"Database.rb"
+			],
+			[
+				"cont",
+				"Contact.rb"
+			],
+			[
+				"crm",
+				"crm.rb"
+			],
+			[
+				"da",
+				"Database.rb"
+			],
+			[
+				"con",
+				"Contact.rb"
+			],
+			[
+				"co",
+				"Contact.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
