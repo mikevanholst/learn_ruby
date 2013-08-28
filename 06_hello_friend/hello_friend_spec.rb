@@ -6,7 +6,7 @@ describe Friend do
     friend = Friend.new
     friend.greet("Bob").should == "Hello Bob!"
   end
-
+pending
   it "says hello to no one" do
     # Hint: remember default values?
     #
